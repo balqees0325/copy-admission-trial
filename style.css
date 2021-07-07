@@ -9,12 +9,14 @@
 	height: 100%;
 	display: -ms-grid;
 	display: grid;
-	-ms-grid-columns: 20% 80%;
+	-ms-grid-columns: 20% 75%;
 	background-color: #eee;
 }
 .sideNav {
 	height: 100vh;
 	padding: 1rem;
+  width: 20%;
+  margin: 0;
 }
 .sideNav h1 {
 	text-transform: capitalize;
@@ -31,4 +33,7 @@
 .sideNav ul li a {
 	color: #333;
 	text-decoration: none;
+}
+.main {
+  width: 75%;
 }

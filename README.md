@@ -16,11 +16,11 @@ In this project, we will set up a "A copy-admission-trial-project" repository. N
 
 To get a local copy up and running follow these simple example steps.
 
-`https://github.com/balqees0325/copy-admission-trial-project.git`
+`https://github.com/balqees0325/copy-admission-trial.git`
 
 change into the working directory.
 
-`cd hello-microverse`
+`cd copy-admission-trial`
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ change into the working directory.
 - LinkedIn: [Balqees Ibrahim](https://www.linkedin.com/in/balqees-ibrahim-911a81204/)
 
 ## Live Demo
-- GitHub: [Live Demo](https://github.com/balqees0325)
+ [Live Demo](https://github.com/balqees0325)
 
 ## 🤝 Contributing
 
